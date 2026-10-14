@@ -2,6 +2,7 @@
 
 A simple CAP attendance station with a keyboard barcode-reader mode, hosted as static files on Cloudflare Pages with a Google Apps Script backend.
 
+Fork this at https://github.com/hestsilas-29/capid-nocam to use it
 ## Features
 
 - **Scanner page:** `index.html` for a USB/Bluetooth barcode scanner that types CAPIDs like a keyboard.
